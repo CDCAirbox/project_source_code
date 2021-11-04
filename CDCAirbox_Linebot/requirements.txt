@@ -1,0 +1,7 @@
+line-bot-sdk
+flask
+pymongo
+numpy
+requests
+psycopg2-binary
+python-dotenv
